@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Météo de Villefranche sur Saône</title>
+        <link rel="icon" type="image/png" href="./images/pictos/daynight/jour.png">
+        <meta name="description" content="Site météorologique de Villefranche sur Saône">
+        <link rel="stylesheet" href="./styles.css">
+    </head>
+    <body>
+        <header>
+            <nav class="navbar">
+                <!--- COLUMN 1 --->
+                <div class="column-day">
+                    <div class="date-time"></div>
+                    <div class="day">
+                        <div class="carre-vide"></div>
+                        <div class="weather-img">
+                            <img src="./images/Pictos/daynight/jour.png" alt="Image d'un soleil pour indiquer le jour" class="day-jour">
+                            <img src="./images/Pictos/daynight/nuit.png" alt="Image d'une lune pour indiquer la nuit" class="day-nuit">
+                        </div>
+                    </div>
+                </div>
+                <!--- COLUMN 2 --->
+                <div class="column-weather">
+                    <div class="condition-meteo"></div>
+                    <div class="img-weather"></div>
+                    <div class="temperature"></div>
+                </div>
+                <!--- COLUMN 3 --->
+                <div class="column-boussole">
+                    <div class="carre-vide"></div>
+                    <div class="boussole">
+                        <img src="./images/boussole/compass.png" alt="Image du cadran de la boussole">
+                        <img src="./images/boussole/arrow.png" alt="Image d'une flèche pour la boussole" id="fleche-boussole">
+                        <div class="vitesse-wind"></div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <main>
+            <section class="container-weather">
+                <div class="cards-temp"></div>
+                <div class="cards-weather"></div>
+            </section>
+        </main>
+        <footer>
+            <script src="./script.js"></script>
+        </footer>
+    </body>
+</html>
