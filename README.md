@@ -27,6 +27,12 @@ It uses the [Open-Meteo](https://open-meteo.com/) API to display:
 
 ---
 
+## 🚀 Demo en ligne / Live Demo
+
+🔗 [Voir la démo en ligne](https://schatel-dev.github.io/Meteo-API/)
+
+---
+
 ## 🧪 Technologies
 
 - HTML / CSS / JavaScript
