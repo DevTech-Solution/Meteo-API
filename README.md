@@ -29,7 +29,7 @@ It uses the [Open-Meteo](https://open-meteo.com/) API to display:
 
 ## 🚀 Demo en ligne / Live Demo
 
-🔗 [Voir la démo en ligne](https://schatel-dev.github.io/Meteo-API/)
+🔗 [Voir la démo en ligne](https://devtech-solution.github.io/Meteo-API/)
 
 ---
 
@@ -45,8 +45,7 @@ It uses the [Open-Meteo](https://open-meteo.com/) API to display:
 ## 👤 Author
 
 **Sebastien C.**  
-🎓 **Promo 2025**  
-🔗 GitHub : [@Dev-IT-Seb](https://github.com/Dev-IT-Seb)
+🔗 GitHub : [@DevTech-Solutions](https://github.com/DevTech-Solution)
 
 ---
 
